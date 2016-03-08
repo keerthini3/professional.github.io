@@ -5005,7 +5005,7 @@ a.text-danger:focus, a.text-danger:hover {
     padding-left: 15px; }
 
 .contact {
-  background: url("../img/cp/c_bg.jpg") 0 0 no-repeat;
+  background: url("../img/cp/cbg.jpg") 0 0 no-repeat;
   height: 783px;
   padding-top: 100px; }
   .contact h4 {
@@ -5039,7 +5039,7 @@ a.text-danger:focus, a.text-danger:hover {
 .footer-sec {
   height: 370px;
   background-color: #ffd7d4;
-  padding: 136px 804px 122px 675px; }
+  padding: 136px 796px 122px 675px; }
   .footer-sec p {
     font-size: 16px;
     color: #000000;
