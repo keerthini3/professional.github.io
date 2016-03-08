@@ -4886,7 +4886,7 @@ a.text-danger:focus, a.text-danger:hover {
 .hero-sec {
   overflow-x: hidden;
   height: 1000px;
-  background: url("../img/cp/bg1.jpg") 0 0 no-repeat; }
+  background: url("../img/cp/introbg.jpg") 0 0 no-repeat; }
   .hero-sec .navbar {
     padding: 19px 390px 19px 393px;
     background-color: rgba(0, 0, 0, 0.25); }
@@ -5005,7 +5005,7 @@ a.text-danger:focus, a.text-danger:hover {
     padding-left: 15px; }
 
 .contact {
-  background: url("../img/cp/bg.jpg") 0 0 no-repeat;
+  background: url("../img/cp/c_bg.jpg") 0 0 no-repeat;
   height: 783px;
   padding-top: 100px; }
   .contact h4 {
